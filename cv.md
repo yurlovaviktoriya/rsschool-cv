@@ -1,7 +1,7 @@
 ![Victoria's photo](./images/my-photo.jpg)
 # Yurlova Victoriya
 
-##Student Web Developer
+## Student Web Developer
 
 
 ### Contacts
