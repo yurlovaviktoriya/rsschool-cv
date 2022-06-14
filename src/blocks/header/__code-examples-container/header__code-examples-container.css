@@ -1,0 +1,15 @@
+.header__code-examples-container {  
+  display: flex;
+  font-family: Inter, Arial, sans-serif;
+  font-style: normal;
+  font-size: 32px;
+  line-height: 39px;
+  color: #F6EFE9;
+}
+
+@media screen and (max-width: 1150px) {
+  .header__code-examples-container {
+    font-size: 24px;
+    line-height: 29px;
+  }
+}

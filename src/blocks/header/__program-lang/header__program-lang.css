@@ -1,0 +1,14 @@
+.header__program-lang {
+  margin: 0;
+  font-weight: 400;
+  transition: color .3s linear;
+}
+
+.header__program-lang:hover {
+  cursor: pointer;
+  color:#603d4d;
+}
+
+.header__program-lang:last-of-type {
+  padding-left: 15px;
+}

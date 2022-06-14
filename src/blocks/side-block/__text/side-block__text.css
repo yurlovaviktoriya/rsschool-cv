@@ -1,0 +1,7 @@
+.side-block__text {
+  margin-bottom: 15px;
+}
+
+.side-block__text:last-of-type {
+  margin-bottom: 0;
+}
