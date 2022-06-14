@@ -1,0 +1,14 @@
+.link {
+  font-weight: 700;
+  font-size: 24px;
+  line-height: 29px;
+  text-decoration: none;
+  color: #396b7a;
+  transition: opacity 0.2s linear;
+}
+
+.link:hover {
+  cursor: pointer;
+  opacity: .5;
+  text-decoration: underline;
+}
