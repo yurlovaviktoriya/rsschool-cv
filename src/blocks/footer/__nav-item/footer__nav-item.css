@@ -1,0 +1,13 @@
+.footer__nav-item {
+  display: block;
+  width: 240px;
+  height: 71px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+  transition: opacity 0.2s linear;
+}
+
+.footer__nav-item:hover {
+  opacity: .5;
+}

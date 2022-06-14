@@ -1,0 +1,13 @@
+.circle_color_peach {
+  top: 65px;
+  right: 195px;  
+  background-color: #da9b85;
+}
+
+
+@media screen and (max-width: 1279px) {
+  .circle_color_peach {
+    top: 150px;
+    right: 125px;
+  }
+}
