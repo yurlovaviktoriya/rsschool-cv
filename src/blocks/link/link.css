@@ -12,3 +12,11 @@
   opacity: .5;
   text-decoration: underline;
 }
+
+
+@media screen and (max-width: 950px) {
+  .link {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}

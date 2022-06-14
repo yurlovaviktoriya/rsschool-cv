@@ -11,3 +11,11 @@
 .footer__nav-item:hover {
   opacity: .5;
 }
+
+
+@media screen and (max-width: 950px) {
+  .footer__nav-item {
+    width: 160px;
+    height: 47px;
+  }
+}

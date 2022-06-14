@@ -5,3 +5,18 @@
   box-sizing: border-box;
   color: #f6efe9;
 }
+
+
+@media screen and (max-width: 950px) {
+  .side-block {
+    width: 270px;
+    padding-left: 16px;
+    padding-right: 16px;
+  }
+}
+
+@media screen and (max-width: 759px) {
+  .side-block {
+    width: 100%;
+  }
+}

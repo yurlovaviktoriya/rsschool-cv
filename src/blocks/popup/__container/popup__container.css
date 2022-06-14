@@ -6,3 +6,10 @@
   position: relative;
   font-family: Inter, Arial, sans-serif;
 }
+
+
+@media screen and (max-width: 950px) {
+  .popup__container {
+    width: 660px;
+  }
+}

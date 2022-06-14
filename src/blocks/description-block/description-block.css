@@ -7,3 +7,18 @@
 
   position: relative;
 }
+
+
+@media screen and (max-width: 950px) {
+  .description-block {
+    width: calc(100% - 270px);
+  }
+}
+
+@media screen and (max-width: 950px) {
+  .description-block {
+    width: 100%;
+    padding-left: 10px;
+    padding-right: 10px;
+  }
+}

@@ -3,3 +3,10 @@
   margin-top: 65px;
   color: #603d4d;
 }
+
+
+@media screen and (max-width: 950px) {
+  .article {
+    margin-top: 30px;
+  }
+}

@@ -5,3 +5,12 @@
   line-height: 44px;   
   color: #396b7a;
 }
+
+
+@media screen and (max-width: 950px) {
+  .description-block__subtitle {
+    margin-top: 10px;
+    font-size: 24px;
+    line-height: 29px;
+  }
+}
