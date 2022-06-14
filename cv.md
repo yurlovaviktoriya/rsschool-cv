@@ -1,4 +1,4 @@
-![Victoria's photo](./images/my-photo.jpg)
+![Victoria's photo](src/images/my-photo.jpg)
 # Yurlova Victoriya
 
 ## Student Web Developer
