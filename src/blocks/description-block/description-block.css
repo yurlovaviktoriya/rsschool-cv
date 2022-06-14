@@ -1,0 +1,9 @@
+.description-block {
+  width: calc(100% - 450px);
+  background-color: #f6efe9;
+  padding-left: 30px;
+  padding-right: 30px;
+  padding-bottom: 30px;
+
+  position: relative;
+}

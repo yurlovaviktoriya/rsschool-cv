@@ -1,0 +1,13 @@
+.circle_color_brown {
+  top: 15px;
+  right: 120px;
+  background-color: #603d4d;
+}
+
+
+@media screen and (max-width: 1279px) {
+  .circle_color_brown {
+    top: 100px;
+    right: 50px;
+  }
+}
