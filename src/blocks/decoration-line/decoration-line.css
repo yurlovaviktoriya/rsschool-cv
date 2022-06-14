@@ -4,3 +4,12 @@
   margin-top: 15px;
   background-color: #603d4d;
 }
+
+
+
+@media screen and (max-width: 950px) {
+  .decoration-line {
+    width: 290px;
+    height: 5px;
+  }
+}

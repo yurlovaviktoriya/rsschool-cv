@@ -5,3 +5,11 @@
   line-height: 58px;   
   color: #396b7a; 
 }
+
+
+@media screen and (max-width: 950px) {
+  .description-block__title {
+    font-size: 36px;
+    line-height: 44px;
+  }
+}

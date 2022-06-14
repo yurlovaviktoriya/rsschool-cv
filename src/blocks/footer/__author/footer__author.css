@@ -6,3 +6,11 @@
   align-self: center;
   color: #603d4d
 }
+
+
+@media screen and (max-width: 950px) {
+  .footer__author {
+    font-size: 20px;
+    line-height: 24px;
+  }
+}
